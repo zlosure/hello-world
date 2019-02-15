@@ -1,3 +1,3 @@
 FROM alpine
-COPY . /hello-worlda
+COPY . /hello-world
 CMD ["top"]
